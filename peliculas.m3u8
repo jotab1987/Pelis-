@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Night of the Living Dead (1968)" group-title="Terror Clásico", Night of the Living Dead
+https://archive.org/download/NightOfTheLivingDead_201303/NightOfTheLivingDead_512kb.m3u8
+
+#EXTINF:-1 tvg-name="Sherlock Jr. (1924)" group-title="Comedia / Cine Mudo", Sherlock Jr.
+https://archive.org/download/SherlockJr/SherlockJr.m3u8
+
+#EXTINF:-1 tvg-name="His Girl Friday (1940)" group-title="Comedia / Romance", His Girl Friday
+https://archive.org/download/HisGirlFriday1940_201802/HisGirlFriday1940_512kb.m3u8
+
+#EXTINF:-1 tvg-name="The Little Shop of Horrors (1960)" group-title="Terror / Comedia", The Little Shop of Horrors
+https://archive.org/download/little_shop_of_horrors/little_shop_of_horrors_512kb.m3u8
+
+#EXTINF:-1 tvg-name="Gulliver's Travels (1939)" group-title="Animación / Aventura", Gulliver's Travels
+https://archive.org/download/Gullivers_Travels/Gullivers_Travels_512kb.m3u8
+
+#EXTINF:-1 tvg-name="Plan 9 from Outer Space (1959)" group-title="Ciencia Ficción", Plan 9 from Outer Space
+https://archive.org/download/Plan_9_from_Outer_Space/Plan_9_from_Outer_Space_512kb.m3u8
+
+#EXTINF:-1 tvg-name="The Stranger (1946)" group-title="Noir / Suspenso", The Stranger
+https://archive.org/download/TheStranger_542/TheStranger_512kb.m3u8
+
+#EXTINF:-1 tvg-name="Charade (1963)" group-title="Suspenso / Romance", Charade
+https://archive.org/download/charade_202110/charade_512kb.m3u8
+
+#EXTINF:-1 tvg-name="The General (1926)" group-title="Comedia / Cine Mudo", The General
+https://archive.org/download/TheGeneral1926fullMovie/TheGeneral1926fullMovie.m3u8
+
+#EXTINF:-1 tvg-name="The Phantom of the Opera (1925)" group-title="Terror / Cine Mudo", The Phantom of the Opera
+https://archive.org/download/PhantomOfTheOpera1925/PhantomOfTheOpera1925_512kb.m3u8
